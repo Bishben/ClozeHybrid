@@ -1,3 +1,5 @@
+> Download: https://ankiweb.net/shared/info/1714047740
+
 ## ClozeHybrid: A Simple but Better Cloze
 ClozeHybrid adds cloze-like functionality to Basic Note types. Normally, Cloze notes restricts you from Creating Multiple Cards from One Singular Note. ClozeHybrid allows you to hide words even on a "Basic" Note type, which will also enable you to create multiple cards from it.
 
