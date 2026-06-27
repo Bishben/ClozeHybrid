@@ -62,3 +62,11 @@ You may find both Note types (Desktop & Mobile version) in my [discord](https://
 
 ### Front and Back Template Example
 ![ClozeHybrid Shortcut Demo](https://raw.githubusercontent.com/Bishben/ClozeHybrid/main/screenshots/mobiletemplate.gif)
+
+## References
+Anki Hooks & Filter Basics\*: https://addon-docs.ankiweb.net/hooks-and-filters.html
+Shortcut Mapping: https://doc.qt.io/qt-6/qshortcut.html
+Regex: https://docs.python.org/3/library/re.html
+
+\* Many of the Anki methods and libraries used I found through gemini and other's code, since anki does not have proper docs
+
